@@ -1,0 +1,1 @@
+﻿D:\Program Files (x86)\vs\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(28,3): error MSB4024: не удалось загрузить импортированный файл проекта "D:\Program Files (x86)\vs\MSBuild\Current\Microsoft.Common.targets\ImportBefore\Microsoft.Net.CoreRuntime.ImportBefore.targets". Отсутствует корневой элемент.
